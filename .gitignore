@@ -2,3 +2,4 @@
 venv
 htmlcov
 db.sqlite3
+.devcontainer
